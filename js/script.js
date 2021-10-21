@@ -108,5 +108,5 @@ for(let i = 0; number != 0; i++){
     }
 }
 
-console.log(sumNumber + " сумма")
-console.log(average + " среднее арифметическое")
+console.log(sumNumber + " сумма");
+console.log(average + " среднее арифметическое");
